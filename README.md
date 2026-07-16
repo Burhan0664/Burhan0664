@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Burhan Çavdaroğlu
 
-**Bilgisayar Mühendisi · Backend Geliştirici · Yapay Zekâ Meraklısı**
+**Bilgisayar Mühendisi · Backend Geliştirici 
 
 .NET ekosistemi, ASP.NET Core ve SQL Server üzerine odaklanan bir backend geliştiriciyim. Bunun yanında React, Python ve FastAPI ile modern full-stack projeler geliştiriyorum. Temiz kod, sürdürülebilir mimari ve kullanıcı odaklı çözümler üretmeye önem veriyorum.
 
